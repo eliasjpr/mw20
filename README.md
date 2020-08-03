@@ -8,11 +8,11 @@ First things first. Let's install Crystal
 
 Visit https://crystal-lang.org/install/ for instructions
 
-## Usage
+## Programing in Crystal
 
-[Language Reference](https://crystal-lang.org/reference/)
-[Standard Library](https://crystal-lang.org/api/)
-[Playground](https://play.crystal-lang.org/#/cr)
+- [Language Reference](https://crystal-lang.org/reference/)
+- [Standard Library](https://crystal-lang.org/api/)
+- [Playground](https://play.crystal-lang.org/#/cr)
 
 ## Resources
 
