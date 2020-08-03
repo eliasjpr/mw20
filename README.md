@@ -1,24 +1,26 @@
 # workshop
 
-TODO: Write a description here
+Welcome to the Crystal Language Workshop
 
 ## Installation
 
-TODO: Write installation instructions here
+First things first. Let's install Crystal
+
+Visit https://crystal-lang.org/install/ for instructions
 
 ## Usage
 
-TODO: Write usage instructions here
+[Language Reference](https://crystal-lang.org/reference/)
+[Standard Library](https://crystal-lang.org/api/)
+[Playground](https://play.crystal-lang.org/#/cr)
 
 ## Resources
 
 https://crystal-lang.org/
 
-TODO: Write development instructions here
-
 ## Contributing
 
-1. Fork it (<https://github.com/your-github-user/workshop/fork>)
+1. Fork it (<https://github.com/eliasjpr/mw20/fork>)
 2. Create your feature branch (`git checkout -b my-new-feature`)
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
@@ -26,4 +28,4 @@ TODO: Write development instructions here
 
 ## Contributors
 
-- [your-name-here](https://github.com/your-github-user) - creator and maintainer
+- [Elias J. Perez](https://github.com/eliasjpr) - creator and maintainer
